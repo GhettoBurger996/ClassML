@@ -1,0 +1,37 @@
+COMPILE IMGLAB
+
+1) Step 1
+wget http://dlib.net/files/dlib-19.16.tar.bz2
+tar xvjf dlib-19.16.tar.bz2
+cd dlib-19.16/tools/imglab
+mkdir build
+cd build
+cmake ..
+cmake --build . --config Release
+sudo make install
+
+2) Step 2
+cd ~/Desktop/dlib_custom
+imglab -c face_detector/faces_annotations.xml face_detector/faces
+
+3) Step 3
+imglab face_detector/faces_annotations.xml
+
+
+4) Python Train
+python train.py --xml face_detector/faces_annotations.xml \
+	--detector face_detector/detector.svm
+
+5) Python Test 
+python test.py --detector face_detector/detector.svm \
+	--testing face_detector/testing
+
+
+
+NOTES: 
+
+IF dlib installation error install directly form dlib-19.16 using 'python setup.py install'
+
+IF still does not work try installing X11 on conda
+
+ 

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='faces/faces_001.jpg'>
+  </image>
+  <image file='faces/faces_002.jpg'>
+  </image>
+  <image file='faces/faces_003.jpg'>
+  </image>
+  <image file='faces/faces_004.jpg'>
+  </image>
+  <image file='faces/faces_005.jpg'>
+  </image>
+  <image file='faces/faces_006.jpg'>
+  </image>
+  <image file='faces/faces_007.jpg'>
+  </image>
+  <image file='faces/faces_008.jpg'>
+  </image>
+  <image file='faces/faces_009.jpg'>
+  </image>
+  <image file='faces/faces_010.jpg'>
+  </image>
+  <image file='faces/faces_011.jpg'>
+  </image>
+  <image file='faces/faces_012.jpg'>
+  </image>
+  <image file='faces/faces_013.jpg'>
+  </image>
+  <image file='faces/faces_014.jpg'>
+  </image>
+  <image file='faces/faces_015.jpg'>
+  </image>
+  <image file='faces/faces_016.jpg'>
+  </image>
+  <image file='faces/faces_017.jpg'>
+  </image>
+  <image file='faces/faces_018.jpg'>
+  </image>
+  <image file='faces/faces_019.jpg'>
+  </image>
+  <image file='faces/faces_020.jpg'>
+  </image>
+  <image file='faces/faces_021.jpg'>
+  </image>
+  <image file='faces/faces_022.jpg'>
+  </image>
+  <image file='faces/faces_023.jpg'>
+  </image>
+  <image file='faces/faces_024.jpg'>
+  </image>
+  <image file='faces/faces_025.jpg'>
+  </image>
+  <image file='faces/faces_026.jpg'>
+  </image>
+  <image file='faces/faces_027.jpg'>
+  </image>
+  <image file='faces/faces_028.jpg'>
+  </image>
+  <image file='faces/faces_029.jpg'>
+  </image>
+  <image file='faces/faces_030.jpg'>
+  </image>
+  <image file='faces/faces_031.jpg'>
+  </image>
+  <image file='faces/faces_032.jpg'>
+  </image>
+  <image file='faces/faces_033.jpg'>
+  </image>
+  <image file='faces/faces_034.jpg'>
+  </image>
+  <image file='faces/faces_035.jpg'>
+  </image>
+  <image file='faces/faces_036.jpg'>
+  </image>
+  <image file='faces/faces_037.jpg'>
+  </image>
+  <image file='faces/faces_038.jpg'>
+  </image>
+  <image file='faces/faces_039.jpg'>
+  </image>
+  <image file='faces/faces_040.jpg'>
+  </image>
+  <image file='faces/faces_041.jpg'>
+  </image>
+  <image file='faces/faces_042.jpg'>
+  </image>
+  <image file='faces/faces_043.jpg'>
+  </image>
+  <image file='faces/faces_044.jpg'>
+  </image>
+</images>
+</dataset>
